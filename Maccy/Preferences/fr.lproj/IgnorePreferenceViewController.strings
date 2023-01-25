@@ -6,7 +6,7 @@
 "PFf-uU-3co.title" = "Il est possible d'ignorer certains types de presse-papiers.\nPar défaut, certains types spécifiques à l'application sont définis. Vous pouvez les supprimer et ajouter tous les types personnalisés que vous souhaitez.";
 
 /* Class = "NSTextFieldCell"; title = "It's possible to ignore copies coming from certain applications.\nPlease note that the way it works is not bullet-proof, so it's better to use pasteboard types when possible."; ObjectID = "bVW-Cb-ulw"; */
-"bVW-Cb-ulw.title" = "Il est possible d'ignorer les copies provenant de certaines applications.\nVeuillez noter que la façon dont cela fonctionne n'est pas à l'épreuve des balles, il est donc préférable d'utiliser des types de carton lorsque cela est possible.";
+"bVW-Cb-ulw.title" = "Il est possible d'ignorer les copies provenant de certaines applications.\nVeuillez noter que la façon dont cela fonctionne n'est pas à l'épreuve des balles, il est donc préférable d'utiliser les types pasteboard lorsque cela est possible.";
 
-/* Class = "NSTableColumn"; headerCell.title = "Applications"; ObjectID = "e5t-lA-7er"; */
+/* Class = "NSTableColumn"; headerCell.title = "Applications"; ObjectID = "e5t-lA-7er";*/
 "e5t-lA-7er.headerCell.title" = "Applications";

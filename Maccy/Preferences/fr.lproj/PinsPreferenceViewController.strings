@@ -11,5 +11,5 @@
 /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "juh-Mt-VZK"; */
 "juh-Mt-VZK.title" = "Text Cell";
 
-/* Class = "NSTableColumn"; headerCell.title = "Key"; ObjectID = "qRS-YB-ZPI"; */
+/* Class = "NSTableColumn"; headerCell.title = "Key"; ObjectID = "qRS-YB-ZPI";*/
 "qRS-YB-ZPI.headerCell.title" = "Clé";

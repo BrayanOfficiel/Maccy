@@ -29,10 +29,10 @@
 "lkL-5p-KVx.title" = "Sons";
 
 /* Class = "NSTextFieldCell"; title = "Global shortcut key to open application.\nDefault: ⇧⌘C."; ObjectID = "rCZ-AO-G8B"; */
-"rCZ-AO-G8B.title" = "Raccourci pour ouvrir l'application.\nPar défaut: ⇧⌘C.";
+"rCZ-AO-G8B.title" = "Raccourci pour afficher l'historique.\nPar défaut: ⇧⌘C.";
 
 /* Class = "NSTextFieldCell"; title = "• Select with ⌘ pressed to copy item.\n• Select with ⌥ pressed to copy and paste item.\n• Select with ⌥⇧ pressed to copy, clear formatting and paste item."; ObjectID = "EdO-Bo-TeB"; */
-"EdO-Bo-TeB.title" = "";
+"EdO-Bo-TeB.title" = "• Cliquez sur l'élément en appuyant sur ⌘ pour le copier.\n• Cliquez sur l'élément en appuyant sur ⌥ Pour le copier et le coller.\n• Cliquez sur l'élément en appuyant sur ⌥⇧ pour le copier, enlever le formatage et le coller.";
 
 /* Class = "NSMenuItem"; title = "Fuzzy"; ObjectID = "IGh-5B-6RG"; */
 "IGh-5B-6RG.title" = "Approximative";
@@ -46,5 +46,5 @@
 /* Class = "NSMenuItem"; title = "Regular expressions"; ObjectID = "mhw-kS-4Wk"; */
 "mhw-kS-4Wk.title" = "Expressions régulières";
 
-/* Class = "NSMenuItem"; title = "Mixed"; ObjectID = "dTc-O1-HqW"; */
+/* Class = "NSMenuItem"; title = "Mixed"; ObjectID = "dTc-O1-HqW";*/
 "dTc-O1-HqW.title" = "Mixte";
